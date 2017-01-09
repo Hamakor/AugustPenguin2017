@@ -15,7 +15,7 @@ email: "ap2017@hamakor.org.il"
 description: "The annual free and open source software convention in Israel"
 baseurl: "/AugustPinguin2017"
 url: "http://night46.github.io"
-permalink: "/"
+permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5" #TODO
 googleAnalyticsSiteUrl: "night46.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" #TODO
