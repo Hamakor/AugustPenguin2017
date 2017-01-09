@@ -37,8 +37,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p" #TODO google form call for papers short link
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf" #TODO sponsorship PDF
+#TODO google form call for papers short link
+c4pUrl: "http://bit.ly/dfua-c4p" 
+#TODO sponsorship PDF
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -51,18 +53,23 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
+#TODO
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
+#TODO
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "August Pinguin <typeout> 2017" #TODO
-eventDate: "August, 2017" #TODO
+#TODO
+heroTitle: "August Pinguin <typeout> 2017"
+#TODO
+eventDate: "August, 2017"
 typeoutTextValues: '"", "Season", "Conference", "Israel"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
+#TODO
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
