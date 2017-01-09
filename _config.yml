@@ -11,34 +11,34 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "August Pinguin 2017"
+email: "ap2017@hamakor.org.il"
+description: "The annual free and open source software convention in Israel"
+baseurl: "/AugustPinguin2017"
+url: "http://night46.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "night46.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Hamakor"
+organizerAlternateName: "Hamakor Foundation"
+organizerDescription: "The Israeli Society for open source and free software."
+organizerEmail: "ap2017@hamakor.org.il"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.hamakor.org.il/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "hamakor, augustpinguin, august pinguin, open source, foss"
+twitterAccount: "@augustpinguin"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://bit.ly/dfua-c4p" #TODO google form call for papers short link
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf" #TODO sponsorship PDF
 
 
 # Navigation
@@ -49,26 +49,26 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "August Pinguin <typeout> 2017" #TODO
+eventDate: "August, 2017" #TODO
+typeoutTextValues: '"", "Season", "Conference", "Israel"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"} #TODO
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest annual free and open source software convention in Israel borught to you with love from HAMAKOR! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
