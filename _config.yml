@@ -11,11 +11,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
+<<<<<<< HEAD
 title: "August Penguin 2017"
 email: "ap2017@hamakor.org.il"
 description: "The annual free and open source software convention in Israel"
 baseurl: "/AugustPenguin2017"
 url: "http://night46.github.io"
+=======
+title: "GDG DevFest Season 2014"
+email: "devfest@gdg.org.ua"
+description: "GDG DevFest is a set of events all around the world"
+baseurl: "/zeppelin"
+url: "https://gdg-x.github.io"
+>>>>>>> gdg-x/master
 permalink: "/blog/:title"
 #TODO google analytics
 #googleAnalyticsTrackingId: "UA-43643469-5"
@@ -40,9 +48,13 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
+<<<<<<< HEAD
 #TODO google form call for papers short link
 c4pUrl: "http://bit.ly/dfua-c4p" 
 #TODO sponsorship PDF
+=======
+c4pUrl: "https://bit.ly/dfua-c4p"
+>>>>>>> gdg-x/master
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -56,10 +68,15 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
+<<<<<<< HEAD
 #TODO
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
 #TODO
+=======
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+>>>>>>> gdg-x/master
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
@@ -70,7 +87,10 @@ eventDate: "August, 2017"
 typeoutTextValues: '"", "Conf", "Season", "Israel"'
 typeoutFallback: "Season"
 heroButtons:
+<<<<<<< HEAD
 #TODO
+=======
+>>>>>>> gdg-x/master
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -138,7 +158,11 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+<<<<<<< HEAD
 subscribeInfo: "Registration will be open around end of Julay. Number of tickets are limited. Stay tuned!"
+=======
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+>>>>>>> gdg-x/master
 
 # Tickets Block
 ticketsTitle: "Pricetable"
