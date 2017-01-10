@@ -67,8 +67,8 @@ heroImage: "hero.jpg"
 heroTitle: "August Pinguin <typeout> 2017"
 #TODO update date
 eventDate: "August, 2017"
-typeoutTextValues: '"", "Conf", "Seasons", "Israel"'
-typeoutFallback: "Seasons"
+typeoutTextValues: '"", "Conf", "Season", "Israel"'
+typeoutFallback: "Season"
 heroButtons:
 #TODO
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
