@@ -18,7 +18,7 @@ url: "http://night46.github.io"
 title: "August Penguin 2017"
 email: "ap2017@hamakor.org.il"
 description: "The annual free and open source software convention in Israel"
-baseurl: "/augustpenguin"
+baseurl: "/augustpenguin2017"
 url: "http://night46.github.io"
 permalink: "/blog/:title"
 #TODO google analytics
