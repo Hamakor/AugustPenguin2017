@@ -9,7 +9,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "August Penguin 2017"
 email: "ap2017@hamakor.org.il"
