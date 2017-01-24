@@ -15,7 +15,8 @@ email: "august@hamakor.org.il"
 description: "The annual free and open source software convention in Israel"
 baseurl: "/AugustPenguin2017"
 url: "http://hamakor.github.io" #TODO - update to our domain
-permalink: "/blog/:title"
+permalink: "/"
+# permalink: "/blog/:title"
 #TODO google analytics
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "night46.github.io"
@@ -47,12 +48,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/", text: "Home"}
+ # - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 #TODO
