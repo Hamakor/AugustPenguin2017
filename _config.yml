@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "August Penguin 2017"
-email: "ap2017@hamakor.org.il"
+email: "august@hamakor.org.il"
 description: "The annual free and open source software convention in Israel"
 baseurl: "/AugustPenguin2017"
-url: "http://night46.github.io"
+url: "http://hamakor.github.io" #TODO - update to our domain
 permalink: "/blog/:title"
 #TODO google analytics
 #googleAnalyticsTrackingId: "UA-43643469-5"
@@ -25,8 +25,7 @@ permalink: "/blog/:title"
 organizerName: "Hamakor"
 organizerAlternateName: "Hamakor Foundation"
 organizerDescription: "The Israeli Society for open source and free software."
-#TODO Email
-organizerEmail: "ap2017@hamakor.org.il"
+organizerEmail: "august@hamakor.org.il"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.hamakor.org.il/"
 
@@ -198,7 +197,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ap2017@hamakor.org.il", text: "ap2017@hamakor.org.il"}
+   - {link: "mailto:august@hamakor.org.il", text: "august@hamakor.org.il"}
  -
   title: "FAQ"
   links:
