@@ -1,3 +1,7 @@
+# *THIS REPO IS NOT USED FOR AUGUST PENGUIN 2017, GO TO https://github.com/Hamakor/AugustPenguin*
+
+
+
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About
